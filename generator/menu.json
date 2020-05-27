@@ -2,7 +2,7 @@
   "常用工具": {
     "icon": "linecons-star"
   },
-  "我是麻瓜": {
+  "今日摸鱼": {
     "icon": "linecons-user",
     "item": {
       "在线办公": "",
@@ -10,7 +10,7 @@
       "影音资源": ""
     }
   },
-  "我是极客": {
+  "化身极客": {
     "icon": "linecons-desktop",
     "item": {
       "竞赛靶场": "",
@@ -18,7 +18,7 @@
       "控制台": ""
     }
   },
-  "我搞学术": {
+  "学术大咖": {
     "icon": "linecons-graduation-cap",
     "item": {
       "工大深圳": "",
