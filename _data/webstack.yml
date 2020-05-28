@@ -1,6 +1,14 @@
-- name: 常用推荐
+- name: 常用工具
   icon: linecons-star
   links: 
+    - title: 四川音乐学院
+      logo: /assets/images/logos/sccm.webp
+      url: http://www.sccm.cn/
+      description: 学校官网。  
+    - title: 新都教务处
+      logo: /assets/images/logos/sccm.webp
+      url: http://jwc.sccm.cn/xd/web/web/web/index?xt_bh=LDk5LDEyMSwxMDYsMTE5LDk5
+      description: 教务系统。  
     - title: Dribbble
       logo: /assets/images/logos/dribbble.png
       url: https://dribbble.com/
