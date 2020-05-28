@@ -20,6 +20,12 @@
       "disc": "微软出品的电子邮箱",
       "img": "outlook.webp"
     },
+    "聚BT": {
+      "url": "https://jubt.cf/cn/index.html",
+      "name": "聚BT",
+      "disc": "聚合最优质的BT、磁力资源",
+      "img": "jubt.png"
+    },
     "qqmail": {
       "url": "https://mail.qq.com/",
       "name": "QQ邮箱",
