@@ -1,3 +1,4 @@
+
 * {
 	margin: 0;
 	padding: 0;
@@ -155,7 +156,7 @@
 }
 
 .type-text:after {
-	content: 'ï„…';
+	content: '';
 	font-family: FontAwesome;
 	margin: 0 0 0 15px
 }
